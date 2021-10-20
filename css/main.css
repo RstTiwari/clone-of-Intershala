@@ -1,0 +1,25 @@
+.navbar{
+    border-bottom: 3px solid whitesmoke;
+   
+    
+}
+.input-group{
+    margin-left: 0 auto;
+}
+
+
+
+
+
+
+
+/*Responivse website and commands*/
+@media screen and (max-width:550px){
+    .grid-container{
+        margin-top: 10px;
+      
+        grid-template-columns: auto;
+    }
+}
+    
+}
